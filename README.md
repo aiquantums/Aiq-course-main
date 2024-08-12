@@ -1,11 +1,6 @@
 <div align="center">
   <h1>🗣️ Large Language Model Course</h1>
-  <p align="center">
-    🐦 <a href="https://twitter.com/maximelabonne">Follow me on X</a> • 
-    🤗 <a href="https://huggingface.co/mlabonne">Hugging Face</a> • 
-    💻 <a href="https://mlabonne.github.io/blog">Blog</a> • 
-    📙 <a href="https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python">Hands-on GNN</a>
-  </p>
+ 
 </div>
 <br/>
 
@@ -70,7 +65,7 @@ A list of notebooks and articles related to large language models.
 This section introduces essential knowledge about mathematics, Python, and neural networks. You might not want to start here but refer to it as needed.
 
 <details>
-<summary>Toggle section</summary>
+
   
 ![](img/roadmap_fundamentals.png)
 
