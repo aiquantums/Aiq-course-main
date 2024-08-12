@@ -63,9 +63,6 @@ A list of notebooks and articles related to large language models.
 ## 🧩 LLM Fundamentals
 
 This section introduces essential knowledge about mathematics, Python, and neural networks. You might not want to start here but refer to it as needed.
-
-<details>
-
   
 ![](img/roadmap_fundamentals.png)
 
